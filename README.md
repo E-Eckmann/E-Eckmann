@@ -1,3 +1,3 @@
-E-Eckmann
-Student at UT Texas
-Java and Python
+Sophomore at UT Austin
+
+Python, Java, SQL
